@@ -2,7 +2,7 @@
 # Lake information
 ###########################
 
-site_id: fcre
+site_id: test
 lake_name: Falling Creek Reservoir
 lake_latitude: 37.307   #Degrees North
 lake_longitude: 79.837  #Degrees West
