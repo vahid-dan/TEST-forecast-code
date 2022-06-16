@@ -6,7 +6,7 @@ file_path:
    execute_directory: .na
    forecast_output_directory: .na
 location:
-   site_id: fcre
+   site_id: test
    name: Falling Creek Reservoir
    latitude: 37.307   #Degrees North
    longitude: -79.837  #Degrees East
